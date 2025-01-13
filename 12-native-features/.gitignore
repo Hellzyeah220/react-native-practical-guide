@@ -1,5 +1,8 @@
 # Learn more https://docs.github.com/en/get-started/getting-started-with-git/ignoring-files
 
+# privacy
+keys/
+
 # dependencies
 node_modules/
 
