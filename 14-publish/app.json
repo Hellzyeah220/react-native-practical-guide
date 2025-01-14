@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "06-navigation",
-    "slug": "06-navigation",
+    "name": "My Recipe Book",
+    "slug": "my-recipe-book",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -14,18 +14,26 @@
       "backgroundColor": "#ffffff"
     },
     "ios": {
+      "buildNumber": "1.0.0",
       "backgroundColor": "#000000",
       "supportsTablet": true
     },
     "android": {
+      "versionCode": 1,
       "backgroundColor": "#24180f",
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.hellzyeah220.myrecipebook"
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "79f06fed-fb18-4cee-88c6-82abf9f2122d"
+      }
     }
   }
 }
