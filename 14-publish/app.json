@@ -16,7 +16,8 @@
     "ios": {
       "buildNumber": "1.0.0",
       "backgroundColor": "#000000",
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.hellzyeah220.myrecipebook"
     },
     "android": {
       "versionCode": 1,
