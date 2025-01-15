@@ -30,8 +30,7 @@
         {
           "icon": "./local/assets/icon.png",
           "color": "#ffffff",
-          "defaultChannel": "default",
-          "enableBackgroundRemoteNotifications": false
+          "defaultChannel": "default"
         }
       ]
     ]
